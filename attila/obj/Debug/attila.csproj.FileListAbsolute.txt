@@ -1,0 +1,16 @@
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\bin\Debug\attila.exe.config
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\bin\Debug\attila.exe
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\bin\Debug\attila.pdb
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\MainWindow.g.cs
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\App.g.cs
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila_MarkupCompile.cache
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila_MarkupCompile.lref
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\MainWindow.baml
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila.g.resources
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\regina.Properties.Resources.resources
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila.csproj.GenerateResource.cache
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila.exe
+C:\Users\diak\Desktop\vicces dolgok\attila\attila\attila\obj\Debug\attila.pdb
